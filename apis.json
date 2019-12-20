@@ -1,0 +1,53 @@
+{
+    "name": "University of Southern California",
+    "description": "The University of Southern California is one of the world\u2019s leading private research universities, established in 1880. An anchor institution in Los Angeles, a global center for arts, technology and international trade, USC enrolls more international s...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1740-university-of-southern-california.jpg",
+    "tags": [
+        "have api",
+        "universities",
+        "university in progress"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/university-of-southern-california\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "University of Southern California",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1740-university-of-southern-california.jpg",
+            "humanURL": "http:\/\/usc.edu",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/university-of-southern-california-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/usc.edu"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/university-of-southern-california"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/university-of-southern-california"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/web-app.usc.edu\/ws\/webcams\/api\/help"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USC"
+        }
+    ]
+}
